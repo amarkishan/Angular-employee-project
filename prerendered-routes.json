@@ -1,0 +1,7 @@
+{
+  "routes": [
+    "/addemp",
+    "/listemp",
+    "/updateemp"
+  ]
+}
